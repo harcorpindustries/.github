@@ -50,9 +50,5 @@
   </a>
 </div>
 <p align="center">
-  <strong>
-    <span style="color:#FF9933;">🇮🇳 Proudly</span>
-    <span style="color:#FFFFFF;"> An Indian </span>
-    <span style="color:#138808;">Company</span>
-  </strong>
+  <strong>🇮🇳 Proudly An Indian Company</strong>
 </p>
